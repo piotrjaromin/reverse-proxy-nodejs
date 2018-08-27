@@ -1,0 +1,3 @@
+node_modules
+certs/cert.pem
+certs/key.pem

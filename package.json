@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@bennadel/circuit-breaker": "0.0.1",
     "axios": "^0.18.0",
+    "simple-node-logger": "^0.93.37",
+    "statsd-client": "^0.4.2",
     "url": "^0.10.3"
   }
 }
